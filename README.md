@@ -10,7 +10,7 @@ Caderno de estudos em Java: exercícios organizados por tema, de lógica e POO a
 |---|---|---|
 | Fundamentos | Variáveis e operadores | ✅ |
 | Fundamentos | Strings | ✅ |
-| Controle | Condicionais | 🔄 |
+| Controle | Condicionais | ✅ |
 | Controle | Switch/case | ⏳ |
 | Controle | Laços | ⏳ |
 | Arrays | Unidimensionais | ⏳ |
