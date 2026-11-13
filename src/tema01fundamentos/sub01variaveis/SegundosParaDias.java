@@ -25,6 +25,5 @@ public class SegundosParaDias {
         System.out.printf("%dd %dh %dm %ds", dias, horas, minutos, segundos);
 
         scanner.close();
-
     }
 }

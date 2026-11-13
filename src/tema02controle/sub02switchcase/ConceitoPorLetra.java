@@ -34,6 +34,5 @@ public class ConceitoPorLetra {
         }
 
         scanner.close();
-
     }
 }

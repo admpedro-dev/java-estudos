@@ -20,7 +20,7 @@ public class MaiorDeTres {
             System.out.println("O maior número é: " + num1);
         } else if (num2 > num1 && num2 > num3) {
             System.out.println("O maior número é: " + num2);
-        } else if (num3 > num2 && num3 > num1){
+        } else if (num3 > num2 && num3 > num1) {
             System.out.println("O maior número é: " + num3);
         } else {
             if (num1 == num2) {
@@ -33,6 +33,5 @@ public class MaiorDeTres {
         }
 
         scanner.close();
-
     }
 }

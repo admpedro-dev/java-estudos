@@ -24,6 +24,5 @@ public class PodeVotar {
         }
 
         scanner.close();
-
     }
 }

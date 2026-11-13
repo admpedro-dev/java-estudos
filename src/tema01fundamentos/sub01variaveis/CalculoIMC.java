@@ -21,6 +21,5 @@ public class CalculoIMC {
         System.out.println("Acima de 24.9: " + (imc > 24.9));
 
         scanner.close();
-
     }
 }

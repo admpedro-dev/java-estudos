@@ -30,6 +30,5 @@ public class ComparaStrings {
         System.out.println("Tamanho da 2: " + (palavra2.length()));
 
         scanner.close();
-
     }
 }

@@ -22,6 +22,5 @@ public class PodeDirigir {
         System.out.println("Maior de idade e tem carteira: " + (idade >= 18 && temCarteira));
 
         scanner.close();
-
     }
 }

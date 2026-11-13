@@ -25,6 +25,5 @@ public class IgualdadeStrings {
 
         // Vai dar false pois o operador [==] compara o endereço de memória, e não o conteúdo dos objetos.
         System.out.println(a == c);
-
     }
 }

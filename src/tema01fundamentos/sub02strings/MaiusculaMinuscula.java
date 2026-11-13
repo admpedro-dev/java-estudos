@@ -17,6 +17,5 @@ public class MaiusculaMinuscula {
         System.out.println(palavra.trim());
 
         scanner.close();
-
     }
 }

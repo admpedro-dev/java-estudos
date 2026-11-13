@@ -20,6 +20,5 @@ public class AnoBissexto {
         }
 
         scanner.close();
-
     }
 }

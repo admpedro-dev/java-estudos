@@ -3,7 +3,7 @@ package tema02controle.sub01condicionais;
 import java.util.Scanner;
 
 public class MaiorIdadeTernario {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         // Leia a idade e use o operador ternário para imprimir Maior de idade ou Menor de idade
 
@@ -17,6 +17,5 @@ public class MaiorIdadeTernario {
         System.out.println(verificacao);
 
         scanner.close();
-
     }
 }

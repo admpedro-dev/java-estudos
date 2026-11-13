@@ -18,6 +18,5 @@ public class MediaNotas {
         System.out.printf("Média: %.2f.", media);
 
         scanner.close();
-
     }
 }

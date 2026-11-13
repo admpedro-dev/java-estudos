@@ -12,7 +12,7 @@ public class PositivoNegativoZero {
         System.out.print("Digite um número: ");
         int num = scanner.nextInt();
 
-        if(num == 0) {
+        if (num == 0) {
             System.out.println("O número é zero!");
         } else if (num > 0) {
             System.out.println("O número é positivo!");
@@ -21,6 +21,5 @@ public class PositivoNegativoZero {
         }
 
         scanner.close();
-
     }
 }

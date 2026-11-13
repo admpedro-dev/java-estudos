@@ -20,6 +20,5 @@ public class TrocoDaCompra {
         System.out.printf("O troco é de: R$%.2f.", troco);
 
         scanner.close();
-
     }
 }

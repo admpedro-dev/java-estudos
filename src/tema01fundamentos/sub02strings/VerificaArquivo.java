@@ -18,6 +18,5 @@ public class VerificaArquivo {
         System.out.println("Contém a palvra 2026: " + nomeDoArquivo.contains("2026"));
 
         scanner.close();
-
     }
 }

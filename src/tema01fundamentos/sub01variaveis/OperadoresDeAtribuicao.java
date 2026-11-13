@@ -33,6 +33,5 @@ public class OperadoresDeAtribuicao {
         System.out.println("x--: " + (x--));
 
         scanner.close();
-
     }
 }

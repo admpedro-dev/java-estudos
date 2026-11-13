@@ -17,6 +17,5 @@ public class TamanhoDaString {
         System.out.println("A ultima letra da palavra é: " + palavra.charAt(palavra.length() - 1));
 
         scanner.close();
-
     }
 }

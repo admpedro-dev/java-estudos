@@ -3,7 +3,7 @@ package tema01fundamentos.sub02strings;
 import java.util.Scanner;
 
 public class TrocaCaracter {
-    public static void main (String[] args) {
+    public static void main(String[] args) {
 
         // Leia uma palavra, a letra a trocar e a nova letra. Imprima o resultado e quantas trocas ocorreram.
         // Para banana, trocando a por o: bonono e 3 trocas.
@@ -23,6 +23,5 @@ public class TrocaCaracter {
         System.out.println("Quantidade de letras trocas: " + (palavra.length() - palavra.replace(letraASerTrocada, "").length()));
 
         scanner.close();
-
     }
 }

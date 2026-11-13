@@ -15,6 +15,5 @@ public class PrimeiraMaiuscula {
         System.out.println(palavra.substring(0, 1).toUpperCase() + palavra.substring(1).toLowerCase());
 
         scanner.close();
-
     }
 }

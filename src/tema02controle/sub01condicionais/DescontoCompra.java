@@ -17,7 +17,7 @@ public class DescontoCompra {
 
         if (valorInicial <= 100) {
             valorComDesconto = valorInicial;
-        } else if(valorInicial > 100 && valorInicial <= 500){
+        } else if (valorInicial > 100 && valorInicial <= 500) {
             valorComDesconto = valorInicial * 0.95;
             desconto = 5;
         } else if (valorInicial > 500) {
@@ -36,6 +36,5 @@ public class DescontoCompra {
         }
 
         scanner.close();
-
     }
 }

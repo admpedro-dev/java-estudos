@@ -24,6 +24,5 @@ public class ClassificaNota {
         }
 
         scanner.close();
-
     }
 }

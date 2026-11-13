@@ -15,15 +15,14 @@ public class QuocienteEResto {
         int num2 = scanner.nextInt();
 
         // Imprime a divisão entre num1 e num2
-        System.out.println("Quociente: " + num1/num2);
+        System.out.println("Quociente: " + num1 / num2);
         // Imprime o resto da divisão entre num1 e num2
-        System.out.println("Resto: " + num1%num2);
+        System.out.println("Resto: " + num1 % num2);
         // Imprime o resto da divisão entre num1 e 2
         System.out.println("N1 % 2: " + num1 % 2);
         // Imprime o resto da divisão entre num2 e 2
-        System.out.println("N2 % 2: " + num2 % 2 );
+        System.out.println("N2 % 2: " + num2 % 2);
 
         scanner.close();
-
     }
 }

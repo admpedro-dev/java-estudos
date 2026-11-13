@@ -12,7 +12,7 @@ public class DiaDaSemana {
         System.out.print("Digite um número de 1 a 7: ");
         int dia = scanner.nextInt();
 
-        switch(dia) {
+        switch (dia) {
             case 1:
                 System.out.println("Domingo");
                 break;

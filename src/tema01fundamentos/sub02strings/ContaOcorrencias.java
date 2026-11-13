@@ -18,6 +18,5 @@ public class ContaOcorrencias {
         System.out.print(frase.toUpperCase().length() - frase.toUpperCase().replace(letra, "").length());
 
         scanner.close();
-
     }
 }
