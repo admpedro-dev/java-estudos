@@ -12,7 +12,7 @@ Caderno de estudos em Java: exercícios organizados por tema, de lógica e POO a
 | Fundamentos | Strings | ✅ |
 | Controle | Condicionais | ✅ |
 | Controle | Switch/case | ✅ |
-| Controle | Laços | ⏳ |
+| Controle | Laços | 🔄 |
 | Arrays | Unidimensionais | ⏳ |
 | Arrays | Matrizes | ⏳ |
 | Orientação a objetos | Classes, métodos, encapsulamento, construtores, static, associação | ⏳ |
